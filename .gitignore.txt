@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+event_log_*.txt
+latest_log.txt
